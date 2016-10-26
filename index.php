@@ -15,15 +15,13 @@
            $imageUrl = $subject;
        } 
    }
-/*
+
    if($imageUrl === "") {
        $imageUrl = "img/comingSoon.jpg";
    }
    else{
        $imageUrl = "http://hometracks.nascar.com".$imageUrl;
    }
-   
-*/
-   
+     
    render("colerouse.php", ['imageUrl' => $imageUrl, 'href' => $href]); 
 ?>
