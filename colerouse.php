@@ -1,13 +1,11 @@
-<body class="main-bg">
-  /* 
+<body class="main-bg"> 
   <div id="hero">  
          
     <a href="http://hometracks.nascar.com/nknps-west/race-central-live-douglas-county">
       <img id="events" src="<?php echo $imageUrl; ?>"/> 
     </a> 
   </div>
- */
-
+  
   <div id="div2">     
   <div id="adiv">
     <div id="pdiv">
